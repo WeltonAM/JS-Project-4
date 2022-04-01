@@ -1,0 +1,48 @@
+body {
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+
+}
+
+section {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 85%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.274);
+}
+
+#flista {
+    width: 150px;
+}
+
+div {
+    padding: 8px;
+}
+
+#btn, #btn2 {
+    cursor: pointer;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    font-size: 10pt;
+    padding-top: 10px;
+}
+
+footer a{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:hover{
+    color: rgb(116, 11, 185);
+}
+
